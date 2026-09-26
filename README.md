@@ -1,5 +1,9 @@
 # E-Commerce Sales Analytics
 
+## Dashboard Preview
+
+![E-Commerce Sales Analytics Dashboard](E-Commerce-Sales-Analytics-Dashboard.png)
+
 ## Project Overview
 
 This project analyzes e-commerce sales data to identify sales trends, customer behavior, product performance, and key business insights.

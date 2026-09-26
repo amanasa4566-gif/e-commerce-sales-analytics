@@ -1,5 +1,7 @@
 # E-Commerce Sales Analytics
 
+**Python | SQL | MySQL | Power BI | DAX**
+
 ## Dashboard Preview
 
 ![E-Commerce Sales Analytics Dashboard](E-Commerce-Sales-Analytics-Dashboard.png)

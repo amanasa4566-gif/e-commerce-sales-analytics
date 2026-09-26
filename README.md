@@ -6,67 +6,70 @@
 
 ## Project Overview
 
-This project analyzes e-commerce sales data to identify sales trends, customer behavior, product performance, and key business insights.
+This project analyzes e-commerce sales data to understand revenue, orders, products, customers, countries, and purchasing time patterns.
 
-The project follows an end-to-end analytics workflow using Python, SQL, and Power BI.
+The project follows an end-to-end analytics workflow using **Python, MySQL, and Power BI**, starting with data cleaning and exploratory analysis and ending with an interactive dashboard.
 
 ## Tools Used
 
 - Python
 - Pandas
-- SQL
+- MySQL / SQL
 - Power BI
+- DAX
 - Jupyter Notebook
 
-## Project Analysis
+## Key Performance Indicators
 
-The analysis covers:
+| KPI | Value |
+|---|---:|
+| Total Revenue | £10.64M |
+| Total Orders | 19.96K |
+| Total Quantity | 5.57M |
+| Average Order Value | £533.17 |
+| Identified Customers | 4.34K |
 
-- E-commerce sales performance
-- Product-level analysis
-- Customer analysis
-- Sales trends
-- Business performance indicators
-- Data analysis using Python
-- SQL-based data analysis
-- Interactive dashboard development using Power BI
+## Key Business Insights
 
-## Python Analysis
+- The business generated approximately **£10.64M in revenue** from **19,960 orders**.
+- Approximately **5.57M units** were sold, with an average order value of **£533.17**.
+- Revenue performance was analysed across **countries, products, and customers**.
+- Monthly revenue trends and **revenue by hour of day** were analysed to understand purchasing patterns.
+- The Power BI dashboard allows users to explore sales performance using an **interactive date filter**.
 
-Python and Pandas were used for data preparation, analysis, and extracting meaningful insights from the e-commerce dataset.
+## Analysis Performed
 
-The Jupyter Notebook contains the Python-based analysis and calculations.
-
-## SQL Analysis
-
-SQL was used to query and analyze the e-commerce data and answer business-related questions.
-
-The SQL file contains the queries used for the analysis.
-
-## Power BI Dashboard
-
-The Power BI dashboard provides an interactive view of the e-commerce sales analysis and helps visualize important business metrics and trends.
+- Python-based data cleaning and exploratory analysis
+- SQL-based sales and customer analysis
+- Product and country performance analysis
+- Customer revenue and order analysis
+- Monthly revenue trend analysis
+- Hourly revenue analysis
+- Interactive Power BI dashboard development
 
 ## Skills Demonstrated
 
-- Python
-- Pandas
-- SQL
+- Python & Pandas
+- SQL / MySQL
 - Power BI
+- DAX
 - Data Cleaning
 - Exploratory Data Analysis
 - Data Visualization
 - Dashboard Development
-- Business Analysis
-- Insight Generation
+- Business Insight Generation
 
 ## Project Files
 
-- [Python Analysis](e%20commerce%20sales%20analysis.ipynb) – Python and Pandas analysis
-- [SQL Analysis](e%20commerce%20sales%20analysis) – SQL queries used for analysis
-- [Power BI Dashboard](e%20commerce%20sales%20analytics%20dashboard.pbix) – Interactive dashboard
-- [Project Report](e%20commerce%20sales%20analytics%20project%20.doc) – Project documentation
+- [Python Analysis](e%20commerce%20sales%20analysis.ipynb)
+- [SQL Analysis](e%20commerce%20sales%20analysis)
+- [Power BI Dashboard](e%20commerce%20sales%20analytics%20dashboard.pbix)
+- [Project Report](e%20commerce%20sales%20analytics%20project%20.doc)
+
+## Data Limitation
+
+The dataset contains transactions only through **9 December 2011**, so December represents a partial month.
 
 ## Conclusion
 
-This project demonstrates an end-to-end approach to e-commerce sales analytics using Python, SQL, and Power BI, covering data analysis, business insights, and interactive visualization.
+This project demonstrates an end-to-end data analytics workflow using **Python, SQL, and Power BI**, transforming raw e-commerce transactions into KPIs, visual analysis, and business insights.
